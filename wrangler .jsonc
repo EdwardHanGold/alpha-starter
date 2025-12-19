@@ -3,9 +3,9 @@
   "name": "alpha-starter",
   "compatibility_date": "2025-12-18",
   
-  // Hugo 构建输出目录
-  "pages_build_output": {
-    "path": "./public",
+  // ⚠️ 关键修改：使用 assets 而不是 pages_build_output
+  "assets": {
+    "directory": "./public",
     "bypass_asset_cache": false
   },
   
@@ -40,8 +40,9 @@
         "SITE_ENVIRONMENT": "preview",
         "BASE_URL": "https://preview.your-domain.pages.dev"
       },
-      "pages_build_output": {
-        "path": "./public",
+      // ⚠️ 这里也要修改为 assets
+      "assets": {
+        "directory": "./public",
         "bypass_asset_cache": true  // 预览环境不缓存
       }
     },
@@ -51,8 +52,9 @@
         "SITE_ENVIRONMENT": "production",
         "BASE_URL": "https://your-domain.com"
       },
-      "pages_build_output": {
-        "path": "./public",
+      // ⚠️ 这里也要修改为 assets
+      "assets": {
+        "directory": "./public",
         "bypass_asset_cache": false
       },
       // 生产环境自定义域名
