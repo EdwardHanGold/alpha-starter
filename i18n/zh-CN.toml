@@ -1,0 +1,567 @@
+# ========================
+# Alpha 主题完整中文翻译
+# 基于主题需求的所有键
+# ========================
+
+# ---------- 基础导航 ----------
+[Homepage]
+other = "首页"
+
+[ToggleMenu]
+other = "打开/关闭主菜单"
+
+[ChangeLanguage]
+other = "切换语言"
+
+[Close]
+other = "关闭"
+
+[CloseSearchBtn]
+other = "关闭搜索"
+
+[SearchBtn]
+other = "激活搜索"
+
+[ColorSchemeBtn]
+other = "切换配色方案"
+
+[SettingsBtn]
+other = "设置按钮"
+
+[Settings]
+other = "设置"
+
+[SettingsOpened]
+other = "设置弹窗已打开"
+
+[SettingsClosed]
+other = "设置弹窗已关闭"
+
+# ---------- 分页与导航 ----------
+[First]
+other = "首页"
+
+[Last]
+other = "末页"
+
+[Previous]
+other = "上一页"
+
+[Next]
+other = "下一页"
+
+[Page]
+other = "页"
+
+# ---------- 内容区域 ----------
+[PreRecentLinkText]
+other = "查看我们最新的所思所想，化为文字，尽在"
+
+[PreFeatLinkText]
+other = "重温一篇精选之作，其回响穿越时光，"
+
+[PostFeatLinkText]
+other = ""
+
+[FeaturedArticle]
+other = "精选文章"
+
+[RecommendedArticles]
+other = "推荐文章"
+
+[RecentArticles]
+other = "最新文章"
+
+[ReadThePost]
+other = "阅读文章"
+
+[ReadNow]
+other = "立即阅读"
+
+[ReadTheRest]
+other = "阅读剩余部分"
+
+[KeepReading]
+other = "继续阅读"
+
+[New]
+other = "新"
+
+[NumListHeading]
+other = "有序文章列表"
+
+# ---------- 文章元数据 ----------
+[Published]
+other = "发布日期："
+
+[LastEdition]
+other = "最后编辑："
+
+[PublishedOn]
+other = "发布于"
+
+[UpdatedOn]
+other = "更新于"
+
+[Category]
+other = "分类："
+
+[TaggedAs]
+other = "标签："
+
+[WrittenBy]
+other = "作者："
+
+[PreviousPart]
+other = "上一部分"
+
+[NextPart]
+other = "下一部分"
+
+[RecommendedPosts]
+other = "相关推荐"
+
+# ---------- 404页面 ----------
+[404FirstLine]
+other = "\"此页已消失，未曾现于世。\""
+
+[404SecondLine]
+other = "但请勿忧，精彩内容仍无数。"
+
+[Default404Description]
+other = "页面在逻辑的轻烟中消失。我们袖中无物——唯有更多内容"
+
+[LivaMenu404Title]
+other = "404页面菜单"
+
+[LivaImg404Title]
+other = "404图片"
+
+[LivaImgCannotFound]
+other = "无法找到图片"
+
+[LivaImgFolder]
+other = "图片文件夹"
+
+[LivaImgIsPlaced]
+other = "图片位于"
+
+[LivaImgMakeSure]
+other = "请确保"
+
+[LivaImgTheImage]
+other = "该图片"
+
+# ---------- 页脚与版权 ----------
+[AllRights]
+other = "保留所有权利。"
+
+[SomeRights]
+other = "保留部分权利。"
+
+[NoRights]
+other = "不保留任何权利。"
+
+[LicensedUnder]
+other = "许可协议："
+
+[Copyright]
+other = "版权所有"
+
+# ---------- 控制台与设置 ----------
+[LivaConsole]
+other = "控制台"
+
+[LivaConsoleCloseBtnAria]
+other = "关闭控制台按钮"
+
+[LivaConsoleHelpBtnAria]
+other = "控制台帮助按钮"
+
+[LivaConsoleHelpBtnTitle]
+other = "控制台帮助"
+
+[LivaConsoleIssueAria]
+other = "报告问题"
+
+[LivaConsoleIssueTitle]
+other = "控制台问题"
+
+[LivaConsoleResetBtnAria]
+other = "重置控制台按钮"
+
+[LivaConsoleResetBtnTitle]
+other = "重置控制台"
+
+[LivaSettings]
+other = "设置"
+
+[LivaSettingsCloseBtn]
+other = "关闭设置"
+
+[LivaSettingsCons]
+other = "控制台"
+
+[LivaSettingsConsDesc]
+other = "控制台描述"
+
+[LivaSettingsConsOpen]
+other = "打开控制台"
+
+[LivaSettingsConsOpenAria]
+other = "打开控制台按钮"
+
+[LivaSettingsDis]
+other = "禁用"
+
+[LivaSettingsDisConfigFile]
+other = "配置文件"
+
+[LivaSettingsDisInThe]
+other = "在文件中"
+
+[LivaSettingsDisSet]
+other = "设置已禁用"
+
+[LivaSettingsDoc]
+other = "文档"
+
+[LivaSettingsPosLabel]
+other = "位置标签"
+
+[LivaSettingsPosOptionBL]
+other = "左下角"
+
+[LivaSettingsPosOptionBR]
+other = "右下角"
+
+[LivaSettingsPosition]
+other = "位置"
+
+[LivaSettingsUpd]
+other = "更新"
+
+[LivaSettingsUpdCheck]
+other = "检查更新"
+
+[LivaSettingsUpdCheckAria]
+other = "检查更新按钮"
+
+[LivaSettingsUpdDesc]
+other = "更新描述"
+
+# ---------- 短代码与帮助 ----------
+[LivaHelpAbout]
+other = "关于"
+
+[LivaHelpDocumentation]
+other = "文档"
+
+[LivaHelpExample]
+other = "示例"
+
+[LivaHelpOptional]
+other = "可选"
+
+[LivaHelpParameters]
+other = "参数"
+
+[LivaHelpRequired]
+other = "必需"
+
+[LivaHelpScDocs]
+other = "短代码文档"
+
+[LivaHelpSyntax]
+other = "语法"
+
+[LivaHelpValues]
+other = "值"
+
+[LivaShortcode]
+other = "短代码"
+
+[LivaScAvailableStyle]
+other = "可用样式"
+
+[LivaScFmSolution]
+other = "Frontmatter解决方案"
+
+[LivaScHelpMarkdown]
+other = "Markdown帮助"
+
+[LivaScHelpShortcodes]
+other = "短代码帮助"
+
+[LivaScInteger]
+other = "整数"
+
+[LivaScInvParam]
+other = "无效参数"
+
+[LivaScInvParamTitle]
+other = "无效参数标题"
+
+[LivaScInvValue]
+other = "无效值"
+
+[LivaScInvValueTitleConsole]
+other = "控制台无效值标题"
+
+[LivaScIsDisabled]
+other = "已禁用"
+
+[LivaScNotRecognized]
+other = "未识别"
+
+[LivaScNumist100]
+other = "数字列表100"
+
+[LivaScPairsBtnPair]
+other = "按钮对"
+
+[LivaScPairsExplain]
+other = "解释"
+
+[LivaScPairsIsMissing]
+other = "缺失"
+
+[LivaScPairsLinkPair]
+other = "链接对"
+
+[LivaScPairsLinkText]
+other = "链接文本"
+
+[LivaScPairsMissingLink]
+other = "缺失链接"
+
+[LivaScPairsMissingText]
+other = "缺失文本"
+
+[LivaScPairsPairs]
+other = "对"
+
+[LivaScPairsProvided]
+other = "已提供"
+
+[LivaScPairsReason]
+other = "原因"
+
+[LivaScPairsSolution]
+other = "解决方案"
+
+[LivaScPairsTitle]
+other = "标题"
+
+[LivaScParamError]
+other = "参数错误"
+
+[LivaScParameter]
+other = "参数"
+
+[LivaScRequireOne]
+other = "需要至少一个"
+
+[LivaScTheParam]
+other = "该参数"
+
+[LivaScToEnable]
+other = "要启用"
+
+[LivaScUsedConsole]
+other = "使用的控制台"
+
+[LivaScValidParamConsole]
+other = "有效参数控制台"
+
+[LivaScValidParameters]
+other = "有效参数"
+
+[LivaScValidValueConsole]
+other = "有效值控制台"
+
+[LivaScValidValues]
+other = "有效值"
+
+[LivaScValueWarn]
+other = "值警告"
+
+[LivaScValues]
+other = "值"
+
+# ---------- 隐私与统计 ----------
+[NoCookiesSnackBar]
+other = "本网站不使用 Cookie，仅收集匿名使用统计数据。"
+
+[PrivacyPolicy]
+other = "隐私政策"
+
+[AnonymousStats]
+other = "匿名统计"
+
+[AnomymousStats]
+other = "匿名统计"  # 注意：主题可能有拼写错误
+
+[CollectedStats]
+other = "我们收集匿名统计数据以优化功能。"
+
+[TrackingDisabled]
+other = "匿名跟踪已禁用"
+
+[TrackingEnabled]
+other = "匿名跟踪已启用"
+
+[PrefetchContent]
+other = "预获取内容"
+
+[PrefetchLinks]
+other = "部分链接已预获取，以提供更流畅的浏览体验。"
+
+[PrefetchDisabled]
+other = "预获取功能已禁用"
+
+[PrefetchEnabled]
+other = "预获取功能已启用"
+
+# ---------- 状态卡片 ----------
+[AboutHeading]
+other = "关于我"
+
+[ErrorHeading]
+other = "错误"
+
+[WarningHeading]
+other = "警告"
+
+[SuccessHeading]
+other = "成功"
+
+[InfoHeading]
+other = "信息"
+
+[CtaHeading]
+other = "下一步做什么？"
+
+[Faq]
+other = "常见问题"
+
+[SocialHeading]
+other = "社交媒体链接"
+
+[FollowUsOn]
+other = "关注我们："
+
+# ---------- 功能按钮 ----------
+[Copy]
+other = "复制"
+
+[CopyToClipboard]
+other = "复制到剪贴板"
+
+[EditOnGithub]
+other = "在 Github 上编辑此页"
+
+[PlayYtVideo]
+other = "播放 YouTube 视频"
+
+[PoweredByPagefind]
+other = "搜索功能由 Pagefind 驱动"
+
+# ---------- 版本与信息 ----------
+[LivaAlphaVerAria]
+other = "Alpha版本"
+
+
+[LivaConsAlphaUpdate]
+other = "Alpha有更新"
+
+[LivaConsHugoNoUpdate]
+other = "Hugo无更新"
+
+[LivaConsHugoUpdate]
+other = "Hugo有更新"
+
+[LivaDoc]
+other = "文档"
+
+[LivaHugoVerAria]
+other = "Hugo版本"
+
+[LivaI18nSelfCheck]
+other = "i18n自检"
+
+[LivaMenuDefine]
+other = "菜单定义"
+
+[LivaMenuInFile]
+other = "在文件中"
+
+[LivaMenuNotDefined]
+other = "菜单未定义"
+
+[LivaMenuTheMenu]
+other = "该菜单"
+
+[LivaSet]
+other = "设置"
+
+[LivaThe]
+other = "该"
+
+[LivaVersion]
+other = "版本"
+
+[LivaSolution]
+other = "解决方案"
+
+# ---------- 其他 ----------
+[NoTranslation]
+other = "未翻译"
+
+[Noother]
+other = "未翻译"
+
+[ColorScheme]
+other = "更改配色方案"
+
+[LivaCardInput]
+other = "卡片输入"
+
+[LivaCardProvidedLink]
+other = "卡片提供的链接"
+
+[LivaFmInputError]
+other = "Frontmatter输入错误"
+
+[LivaConsAlphaNoUpdate]
+other = "Alpha无更新"
+
+[OcdScFeatEnableFm]
+other = "精选短代码启用Frontmatter"
+
+[OcdScFeatTitle]
+other = "精选短代码标题"
+
+[OcdScRecEnableFm]
+other = "推荐短代码启用Frontmatter"
+
+[OcdScRecTitle]
+other = "推荐短代码标题"
+
+[The]
+other = "该"
+
+[AvatarOf]
+other = "头像来自"
+# ========================
+# SEO和功能键（最后3个）
+# ========================
+
+[DefaultTaxonomyDescription]
+other = "浏览在%s上的所有%s——所有可用%s的概览，便于探索。"
+
+[DefaultTermsDescription]
+other = "探索在%s上与'%q'相关的所有页面——发现相关内容与主题。"
+
+[LivaFabAria]
+other = "打开LiVa控制台（如有错误）或LiVa设置"

@@ -1,6 +1,6 @@
 +++
 # Content Identity
-title = "Home Page"
+title = "万里开霁"
 description = "Home page description, a must for SEO and social shares"
 
 # Dates
@@ -17,12 +17,15 @@ seo_image = ""
 twitter_username = ""
 +++
 
-{{< status_card TITLE="Just Shortcodes" TYPE="info" >}}
 
-Rearrange your webpages as you see fit for your needs. 
-Other than your text in Alpha everything else is **shortcodes**!
+{{< status_card TITLE="首页" TYPE="info" >}}
+
+我正在学习短代码
 
 {{< /status_card >}}
+
+
+
 
 {{< hero 
   TITLE="Welcome to your Site!" 
@@ -35,6 +38,7 @@ Other than your text in Alpha everything else is **shortcodes**!
   LINK-LABEL="Visit the official Alpha repository" 
 >}}
 
+
 {{< featured STYLE="banner">}}
 
 {{< text_snippet TITLE="Your text come first" >}}
@@ -43,5 +47,17 @@ Alpha puts your words first by minimizing interface *distractions* (UI) enhancin
 
 {{< /text_snippet >}}
 
-{{< recommended TITLE="Recommended Posts" LIMIT="4" >}}
+{{< recommended TITLE="Recommended Posts" LIMIT="1" >}}
+
+{{< cta
+TITLE="Latest Episode: The Last Donut"
+BTN-TEXT="Listen Now"
+BTN-LINK="/podcast/the-last-donut/"
+BTN-LABEL="Listen to the full story now"
+>}}
+
+This week, we unravel the *baffling clues* and *chilling timeline* surrounding the disappearance of the **last donut**. 
+What secrets remain buried? Learn more in our latest ***podcast***.
+
+{{< /cta >}}
 

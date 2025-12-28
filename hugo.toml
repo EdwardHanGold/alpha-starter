@@ -4,7 +4,7 @@
 # Documentation: https://alpha.oxypteros.com/docs/config/hugo-toml
 
 baseURL = "https://alpha-starter.pages.dev" # Replace with production URL
-title = "My Blog"
+title = "万里开霁"
 theme = "alpha"
 #timeZone = "Europe/Rome"
 
@@ -31,3 +31,21 @@ theme = "alpha"
 #    disableWatch = true
 #    source = 'hugo_stats.json'
 #    target = 'assets/notwatching/hugo_stats.json'
+
+defaultContentLanguage = "zh-CN"
+defaultContentLanguageInSubdir = false 
+
+[languages]
+  [languages.zh-CN]
+    title = "万里开霁"
+    languageName = "简体中文"
+    languageCode = "zh-CN"
+    weight = 1  # 主语言权重
+    hasCJKLanguage = true
+  [languages.en]
+    title = "MY BLOG"
+    languageCode = "en"
+    languageName = "English"
+    hasCJKLanguage = true
+    weight = 2
+
